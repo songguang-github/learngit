@@ -11,3 +11,5 @@ github网站上第二次修改
 Creating a new branch is quick & simple.
 
 test1 branch
+
+--no-ff
